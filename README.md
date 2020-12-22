@@ -1,7 +1,7 @@
 # Th3ta Electronics BashBox
 
 ### Software
-main.py should be present at ~/main.py on your Raspberry Pi. The RPi.GPIO library should also be present, and is pre-installed on some newer versions of Raspbian.
+main.py should be present at ~/main.py on your Raspberry Pi. The RPi.GPIO Python module should also be present, and is pre-installed on some newer versions of Raspbian.
 
 ### Hardware
 Compatibility: any 40-pin Raspberry Pi, including but not limited to
